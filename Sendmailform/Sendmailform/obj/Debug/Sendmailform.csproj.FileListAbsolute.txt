@@ -1,0 +1,31 @@
+E:\Documents\asp.net\workspace\day8\project\Sendmailform\Sendmailform\bin\Debug\Sendmailform.exe.config
+E:\Documents\asp.net\workspace\day8\project\Sendmailform\Sendmailform\bin\Debug\Sendmailform.exe
+E:\Documents\asp.net\workspace\day8\project\Sendmailform\Sendmailform\bin\Debug\Sendmailform.pdb
+E:\Documents\asp.net\workspace\day8\project\Sendmailform\Sendmailform\obj\Debug\Sendmailform.csprojResolveAssemblyReference.cache
+E:\Documents\asp.net\workspace\day8\project\Sendmailform\Sendmailform\obj\Debug\Sendmailform.Form1.resources
+E:\Documents\asp.net\workspace\day8\project\Sendmailform\Sendmailform\obj\Debug\Sendmailform.Properties.Resources.resources
+E:\Documents\asp.net\workspace\day8\project\Sendmailform\Sendmailform\obj\Debug\Sendmailform.csproj.GenerateResource.Cache
+E:\Documents\asp.net\workspace\day8\project\Sendmailform\Sendmailform\obj\Debug\Sendmailform.exe
+E:\Documents\asp.net\workspace\day8\project\Sendmailform\Sendmailform\obj\Debug\Sendmailform.pdb
+E:\android code\Sendmailform\Sendmailform\bin\Debug\Sendmailform.exe.config
+E:\android code\Sendmailform\Sendmailform\obj\Debug\Sendmailform.exe
+E:\android code\Sendmailform\Sendmailform\obj\Debug\Sendmailform.pdb
+E:\android code\Sendmailform\Sendmailform\bin\Debug\Sendmailform.exe
+E:\android code\Sendmailform\Sendmailform\bin\Debug\Sendmailform.pdb
+E:\android code\Sendmailform\Sendmailform\obj\Debug\Sendmailform.csprojResolveAssemblyReference.cache
+E:\android code\Sendmailform\Sendmailform\obj\Debug\Sendmailform.Form1.resources
+E:\android code\Sendmailform\Sendmailform\obj\Debug\Sendmailform.Properties.Resources.resources
+E:\android code\Sendmailform\Sendmailform\obj\Debug\Sendmailform.csproj.GenerateResource.Cache
+E:\android code\Sendmailform\Sendmailform\obj\Debug\Sendmailform.Form0.resources
+E:\android code\Sendmailform\Sendmailform\obj\Debug\Sendmailform.Form3.resources
+E:\Documents\asp.net\workspace\day8\Sendmailform\Sendmailform\bin\Debug\Sendmailform.exe.config
+E:\Documents\asp.net\workspace\day8\Sendmailform\Sendmailform\obj\Debug\Sendmailform.exe
+E:\Documents\asp.net\workspace\day8\Sendmailform\Sendmailform\obj\Debug\Sendmailform.pdb
+E:\Documents\asp.net\workspace\day8\Sendmailform\Sendmailform\obj\Debug\Sendmailform.csprojResolveAssemblyReference.cache
+E:\Documents\asp.net\workspace\day8\Sendmailform\Sendmailform\obj\Debug\Sendmailform.Form1.resources
+E:\Documents\asp.net\workspace\day8\Sendmailform\Sendmailform\obj\Debug\Sendmailform.Form0.resources
+E:\Documents\asp.net\workspace\day8\Sendmailform\Sendmailform\obj\Debug\Sendmailform.Form3.resources
+E:\Documents\asp.net\workspace\day8\Sendmailform\Sendmailform\obj\Debug\Sendmailform.Properties.Resources.resources
+E:\Documents\asp.net\workspace\day8\Sendmailform\Sendmailform\obj\Debug\Sendmailform.csproj.GenerateResource.Cache
+E:\Documents\asp.net\workspace\day8\Sendmailform\Sendmailform\bin\Debug\Sendmailform.exe
+E:\Documents\asp.net\workspace\day8\Sendmailform\Sendmailform\bin\Debug\Sendmailform.pdb
