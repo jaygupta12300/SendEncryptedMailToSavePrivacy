@@ -1,6 +1,6 @@
 # 📧 SendEncryptedMailToSavePrivacy
 
-**SendEncryptedMailToSavePrivacy** is a C# desktop application that lets users send **encrypted emails or files** so that even if someone intercepts the message, they **cannot read the contents** without the proper decryption key. ([GitHub][1])
+**SendEncryptedMailToSavePrivacy** is a C# desktop application that lets users send **encrypted emails or files** so that even if someone intercepts the message, they **cannot read the contents** without the proper decryption key.
 
 This project is ideal for people who care about **email privacy and security** by applying **cryptographic techniques** before sending sensitive content.
 
